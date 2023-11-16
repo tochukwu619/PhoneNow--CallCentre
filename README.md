@@ -2,6 +2,7 @@
 
 ### PROJECT OVERVIEW
 The project is on the analysis of data gotten from a Call Centre. The customers’ satisfaction, with respect to the call agents, was analysed for quality improvement and recommendation.
+![CallCentre Dashboard](https://github.com/tochukwu619/PhoneNow--CallCentre/assets/125865918/a832d43b-ee9d-44d2-866e-7f2ffce9e49b)
 
 ### DATA SOURCE
 The dataset used for this project is labelled as ’01 Call-Center-dataset.xlsx’.
